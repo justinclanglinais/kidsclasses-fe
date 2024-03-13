@@ -48,7 +48,7 @@
             "Get a free NWJJA gi, and get access to free circuit training classes during the 5-week course."
         ]
     },
-    "programs": [
+    "courses": [
         {
             "id": 1,
             "name": "Basic Jiu Jitsu",
@@ -63,6 +63,16 @@
             "id": 3,
             "name": "Women's Jiu Jitsu",
             "desc": "Led by women, come learn and train with other women."
+        },
+        {
+            "id": 4,
+            "name": "Kids 4-10",
+            "desc": "Kids learn body movement, balance, and have a ton of fun!"
+        },
+        {
+            "id": 5,
+            "name": "Teens 11-14",
+            "desc": "Teens learn and refine positions, movements, and techniques."
         }
     ]
   }

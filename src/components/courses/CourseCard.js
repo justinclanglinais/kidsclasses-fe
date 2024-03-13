@@ -1,6 +1,6 @@
 import React from 'react';
 
-const StudentCard = ( props ) => {
+const CourseCard = ( props ) => {
     return (
         <div>
             <p>{props.name}</p>
@@ -8,4 +8,4 @@ const StudentCard = ( props ) => {
     )
 }
 
-export default StudentCard;
+export default CourseCard;
