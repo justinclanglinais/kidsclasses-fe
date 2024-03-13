@@ -24,30 +24,29 @@
             "rank": "Black Belt - 2nd degree",
             "age": 14
         }
-        ],
-        "comments": [
+    ],
+    "dates": [
         {
             "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "day": "2024-03-01",
+            "name": "Tuesday"
         },
         {
             "id": 2,
-            "body": "some comment",
-            "postId": 1
+            "day": "2024-03-02",
+            "name": "Wednesday"
+        },
+        {
+            "id": 3,
+            "day": "2024-03-03",
+            "name": "Thursday"
+        },
+        {
+            "id": 4,
+            "day": "2024-03-04",
+            "name": "Friday"
         }
     ],
-    "profile": {
-        "history": "The Northwest Jiu-Jitsu Academy is one of the oldest and largest Brazilian Jiu-Jitsu schools in the Seattle area, located in Seattle, Washington near Green Lake.  Owner and chief instructor Brian Johnson is 3-time world champion and 5th-degree black belt, awarded to him by the legendary Rigan Machado and endorsed by the Machado Brothers.  Northwest Jiu-Jitsu Academy offers kid, teen, and adult Brazilian Jiu-Jitsu classes, in addition to women's classes, circuit training, and competition training. "
-    },
-    "intro": {
-        "title": "5-week Beginner's Course",
-        "bullets": [
-            "Curriculum - our own hand-made curriculum, formulated by Professor Brian Johnson, gives you a full picture of Brazilian Jiu Jitsu.",
-            "Starting BJJ with a group of experienced people can be hard.  You'll be starting the course with other beginners, so you're all on the same page.",
-            "Get a free NWJJA gi, and get access to free circuit training classes during the 5-week course."
-        ]
-    },
     "courses": [
         {
             "id": 1,
@@ -75,4 +74,4 @@
             "desc": "Teens learn and refine positions, movements, and techniques."
         }
     ]
-  }
+}
