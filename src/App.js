@@ -17,7 +17,7 @@ class App extends React.Component {
       <div className="App">
         <LogACourse />
         {/* <StudentList /> */}
-        <CourseList />
+        {/* <CourseList /> */}
       </div>
     );
   }
